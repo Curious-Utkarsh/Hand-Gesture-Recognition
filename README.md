@@ -10,7 +10,7 @@ Train your own hand gestures from the webcam and recognise them in real time. Me
 
 **Also with hand tracking:** [Hill Climb Racing controlled by hand gestures (video)](https://youtu.be/dk9JOpsxH-o)
 
-**Where this led:** hand tracking later drove robots — [IMU gesture robot](https://github.com/MechaMind-Labs/MicroROS_Gesture_Controlled_Robot_MPU6050), [UR5 MediaPipe pick-and-place](https://github.com/MechaMind-Labs/UR5_PICK_AND_PLACE_MEDIAPIPE_ROS2) and two-hand teleop of my [SCARA arm](https://github.com/Curious-Utkarsh/ROS2_SCARA_WS).
+**Where this led:** hand tracking later drove robots — [IMU gesture robot](https://github.com/MechaMind-Labs/microros-gesture-robot), [UR5 MediaPipe pick-and-place](https://github.com/MechaMind-Labs/ur5-gesture-pick-and-place) and two-hand teleop of my [SCARA arm](https://github.com/Curious-Utkarsh/scara-pick-and-place).
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [Portfolio of builds](https://www.mechamindlabs.com/projects)
